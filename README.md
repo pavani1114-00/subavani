@@ -1,10 +1,10 @@
-# Subavani - Digital Invitation Card Designs
+# Subavani Digital Invitation Platform
 
 A digital invitation card designs platform offering customizable, reasonably priced, and affordable designs for selected events.
 
 ## 🌐 Live Website
 
-Visit our website here: **https://subavani-invi--techpapainkadap.replit.app/**
+Visit our website here: **https://subavani-invi/**
 
 ## 📝 About
 
